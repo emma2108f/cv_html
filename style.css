@@ -68,7 +68,7 @@ section {
 }
 
 h2 {
-    color: #7a3866;
+    color: #770555;
     border-bottom: 2px solid var(--bleu);
     padding-bottom: 10px;
     margin-bottom: 20px;
@@ -107,7 +107,7 @@ footer {
 
 .bouton-github {
     display: inline-block;
-    background:  #5b0441;
+    background: #7a3866;
     color: #ffffff;
     padding: 12px 25px;
     text-decoration: none;
